@@ -1,3 +1,11 @@
+---
+title: React Hook 기본 — useState와 useEffect
+date: 2019-12-13
+category: react
+tags: [react, hooks, useState, useEffect, frontend]
+summary: Hook은 함수형 컴포넌트에서 state/생명주기 기능을 쓸 수 있게 하는 함수. useState는 상태 추가, useEffect는 componentDidMount/DidUpdate/WillUnmount 대체 + cleanup 반환 가능.
+---
+
 # React Hook!🌂
 
 0. [React Hook?](#React-Hook)

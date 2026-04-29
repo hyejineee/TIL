@@ -1,3 +1,11 @@
+---
+title: React 공식 튜토리얼 — Tic-Tac-Toe로 컴포넌트 구조 익히기
+date: 2019-12-19
+category: react
+tags: [react, tutorial, props, state, immutability, frontend]
+summary: Square/Board 컴포넌트를 위에서 아래로 prop으로 연결, 상태는 상위(Board)에 모아 관리(lifting state up). Immutability가 undo/redo·변경 감지·리렌더 최적화를 쉽게 만든다.
+---
+
 # Start React!! 
 
 ----
